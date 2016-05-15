@@ -5,6 +5,7 @@ A simple starter project demonstrating the basic concepts of Angular 2.
 This branch uses [Webpack](https://webpack.github.io/) for Development. There is also a SystemJS branch available.
 
 ### Usage
+Test
 - Clone or fork this repository
 - Make sure you have [node.js](https://nodejs.org/) installed
 - run `npm install -g webpack webpack-dev-server typings typescript` to install global dependencies
